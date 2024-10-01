@@ -1,0 +1,2 @@
+
+ans1 ansible_host=20.221.72.14 ansible_user=azureuser ansible_port=22 ansible_ssh_private_key_file=~/.ssh/ans1_key.pem
